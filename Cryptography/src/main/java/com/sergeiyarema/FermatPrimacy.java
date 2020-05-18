@@ -3,7 +3,7 @@ package com.sergeiyarema;
 import java.math.BigInteger;
 import java.util.Random;
 
-public class FermatPrimacyTest {
+public class FermatPrimacy {
     private static final Random rand = new Random();
 
     public static boolean isProbablePrime(BigInteger n, int maxIterations) {

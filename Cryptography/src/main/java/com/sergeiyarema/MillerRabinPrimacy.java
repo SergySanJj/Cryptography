@@ -3,7 +3,7 @@ package com.sergeiyarema;
 import java.math.BigInteger;
 import java.util.Random;
 
-public class MillerRabinPrimacyTest {
+public class MillerRabinPrimacy {
     private static Random rnd = new Random();
 
     private static final BigInteger ZERO = BigInteger.ZERO;
