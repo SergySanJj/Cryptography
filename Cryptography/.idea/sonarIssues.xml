@@ -18,6 +18,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/sergeiyarema/EuclidExtendedGCD.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/sergeiyarema/FermatPrimacyTest.java">
           <value>
             <set />
@@ -48,7 +53,22 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/sergeiyarema/Montgomery.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/sergeiyarema/MontgomeryOperations.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/test/java/com/sergeiyarema/BinPowTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/sergeiyarema/EuclidExtendedGCDTest.java">
           <value>
             <set />
           </value>
@@ -64,6 +84,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/test/java/com/sergeiyarema/MillerRabinPrimacyTestTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/sergeiyarema/MontgomeryOperationsTest.java">
           <value>
             <set />
           </value>
