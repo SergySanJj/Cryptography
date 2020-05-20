@@ -103,6 +103,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/sergeiyarema/sha1/SHA1.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/sergeiyarema/twofish/Twofish.java">
           <value>
             <set />
@@ -144,6 +149,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/test/java/com/sergeiyarema/rijndael/RijndaelTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/sergeiyarema/sha1/SHA1Test.java">
           <value>
             <set />
           </value>
