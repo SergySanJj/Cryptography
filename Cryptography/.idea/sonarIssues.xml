@@ -18,6 +18,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/sergeiyarema/CLEFIA.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/sergeiyarema/EuclidExtendedGCD.java">
           <value>
             <set />
@@ -63,6 +68,46 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/sergeiyarema/elgamal/ElGamal.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/sergeiyarema/rijndael/Constants.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/sergeiyarema/rijndael/KeyExpander.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/sergeiyarema/rijndael/Rijnadel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/sergeiyarema/rijndael/Rijndael.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/sergeiyarema/rijndael/RijndaelState.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/sergeiyarema/rijndael/State.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/sergeiyarema/twofish/Twofish.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/test/java/com/sergeiyarema/BinPowTest.java">
           <value>
             <set />
@@ -89,6 +134,16 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/test/java/com/sergeiyarema/MontgomeryOperationsTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/sergeiyarema/elgamal/ElGamalTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/sergeiyarema/rijndael/RijndaelTest.java">
           <value>
             <set />
           </value>
